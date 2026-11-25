@@ -141,4 +141,4 @@ No license has been added yet. Reuse and redistribution permissions should be sp
 
 ---
 
-**Developed as a first-year CSE mini-project.**
+**Developed as a first-sem CSE mini-project.**
